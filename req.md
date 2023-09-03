@@ -5,7 +5,7 @@ Durante este curso aprenderás las bases del desarrollo frontend desde el diseno
 * Fundamentos de la programación web 
 * DOM
 * Single Page Applications (SPAs)
-* Introducción a React
+* Introduccion a React
 * La unidad fundamental de React, los componentes
 * JSX
 * Props
@@ -15,18 +15,11 @@ Durante este curso aprenderás las bases del desarrollo frontend desde el diseno
 * **Y obviamente... la construcción de una aplicación desde cero!**
 
 ## Antes de Iniciar
-Antes de iniciar a hablar sobre los requerimientos técnicos y cosas que deberían estar instaladas en la computadora, es necesario aclarar que para sacarle el máximo potencial a este curso es necesario conocimientos previos acerca de JavaScript, HTML y CSS. En caso de no contar con experiencia previa sobre estas tecnologías, te recomendamos ver cualquiera de los siguientes tutoriales para principiantes y así puedas disfrutar de este curso al 100%.
-* https://www.youtube.com/watch?v=tfQtvSBNDM4 (50 minutos)
-* https://www.youtube.com/watch?v=mK8H9lY2xcM&t=15s (2 horas)
-
-Es necesario que tengamos ya ciertas cosas instaladas en nuestra computadora para poder agilizar la modalidad del curso y poder empezar a practicar desde el día uno. A continuación se encuentra una lista de los requerimientos antes de iniciar el curso.
+Es necesario que tengamos ya ciertas cosas instaladas en nuestra computadora para poder agilizar la modalidad del curso y poder empezar a practicar desde el dia uno. A continuacion se encuentra una lista de los requerimientos antes de iniciar el curso.
 * Tener un editor de texto instalado en nuestra computadora, te recomendamos tener VsCode instalado ya que es el que estaremos usando para este curso. Aquí te dejamos el link a la pagina oficial para instalarlo! 
 https://code.visualstudio.com/
 * Tener Node instalado en tu computadora, aqui te dejamos el link de la descarga de la pagina oficial y un tutorial
 https://nodejs.org/es/download
 https://www.youtube.com/watch?v=czFj5zoI5uc
-* Tener npm instalado en tu computadora, aquí te dejamos el link de un tutorial que incluye Node y NPM (NVM no es necesario pero tampoco afecta tenerlo)
+* Tener npm instalado en tu computadora, aqui te dejamos el link de un tutorial que incluye Node y NPM (NVM no es necesario pero tampoco afectara tenerlo)
 https://www.youtube.com/watch?v=Z-Ofqd2yBCc
-
-## Contacto
-Para cualquier tipo de duda, pueden enviar un correo a yeyomoreno2003@hotmail.com o a diegoalb04hat@gmail.com e intentaremos responderlos lo mas pronto posible, o si lo prefieren, un whatsapp al numero 4772908021.  
