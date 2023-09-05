@@ -1,0 +1,7 @@
+.coverImage {
+  width: 100%;
+}
+
+.coverImage:hover {
+  opacity: 0.8;
+}

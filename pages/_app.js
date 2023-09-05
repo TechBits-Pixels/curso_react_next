@@ -3,7 +3,7 @@ import Navbar from '@/components/Navbar/Navbar'
 import { Press_Start_2P, Open_Sans } from 'next/font/google'
 import Footer from '@/components/Footer/Footer'
 
-const pressStart2P = Press_Start_2P({
+export const pressStart2P = Press_Start_2P({
   weight: '400',
   subsets: ['latin-ext'],
 })
@@ -15,9 +15,9 @@ export const openSans = Open_Sans({
 
 export default function App({ Component, pageProps }) {
   return (
-    <main className={`layout ${openSans.className}`}>
+    <main className={`layout ${pressStart2P.className}`}>
       <Navbar />
-      <Component {...pageProps} />
+      <Component {...pageProps}/>
       <Footer />
     </main>
   )
