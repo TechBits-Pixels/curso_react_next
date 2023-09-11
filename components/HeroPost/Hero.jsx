@@ -20,7 +20,7 @@ export default function HeroPost({ post }) {
               {post.title}
             </Link>
           </h3>
-          <div className={classes.fecha}>
+          <div className={classes.date}>
             <DateFormatter dateString={post.fecha} />
           </div>
           <p className={classes.author}>por {post.autor}</p>
