@@ -21,12 +21,12 @@ Antes de iniciar a hablar sobre los requerimientos técnicos y cosas que deberí
 
 Es necesario que tengamos ya ciertas cosas instaladas en nuestra computadora para poder agilizar la modalidad del curso y poder empezar a practicar desde el día uno. A continuación se encuentra una lista de los requerimientos antes de iniciar el curso.
 * Tener un editor de texto instalado en nuestra computadora, te recomendamos tener VsCode instalado ya que es el que estaremos usando para este curso. Aquí te dejamos el link a la pagina oficial para instalarlo! 
-https://code.visualstudio.com/
+  - https://code.visualstudio.com/
 * Tener Node instalado en tu computadora, aqui te dejamos el link de la descarga de la pagina oficial y un tutorial
-https://nodejs.org/es/download
-https://www.youtube.com/watch?v=czFj5zoI5uc
+  - https://nodejs.org/es/download
+  - https://www.youtube.com/watch?v=czFj5zoI5uc
 * Tener npm instalado en tu computadora, aquí te dejamos el link de un tutorial que incluye Node y NPM (NVM no es necesario pero tampoco afecta tenerlo)
-https://www.youtube.com/watch?v=Z-Ofqd2yBCc
+  - https://www.youtube.com/watch?v=Z-Ofqd2yBCc
 
 ## Contacto
 Para cualquier tipo de duda, pueden enviar un correo a yeyomoreno2003@hotmail.com o a diegoalb04hat@gmail.com e intentaremos responderlos lo mas pronto posible, o si lo prefieren, un whatsapp al numero 4772908021.  
