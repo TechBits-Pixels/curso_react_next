@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  align-items: center;
+  margin: 4rem 0;
+}
+
+.form {
+  padding: 2rem !important;
+}
+
+.titulo {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.grupo {
+  margin: 1.5rem 0;
+}
+
+.boton {
+  margin: 2rem 0;
+}
+
+.link {
+  font-size: 0.8rem;
+  margin-top: 1rem;
+  display: block;
+  color: #209cee;
+}
