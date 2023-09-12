@@ -1,4 +1,4 @@
-.image {
+.imagen {
   margin-bottom: 2rem;
 }
 
@@ -11,24 +11,24 @@
   text-decoration: underline;
 }
 
-.title {
+.titulo {
   font-size: 1.8rem;
 }
 
-.date {
+.fecha {
   font-size: 1rem;
   margin-bottom: 1rem;
   color: #999;
   font-family: 'Open Sans', sans-serif, Arial;
 }
 
-.excerpt {
+.intro {
   font-size: 1.1rem;
   text-align: justify;
   font-family: 'Open Sans', sans-serif, Arial;
 }
 
-.author {
+.autor {
   display: flex;
   font-weight: bold;
   font-size: 1.2rem;

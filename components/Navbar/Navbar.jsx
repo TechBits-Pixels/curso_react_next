@@ -13,15 +13,18 @@ export default function Navbar() {
       <Link href="/" className={`${classes.logo} ${pressStart2P.className}`}>
         Technobits & Pixels
       </Link>
-      <div className={classes.toggle} onClick={() => setIsOpen(!isOpen)}>
+      <div className={classes.menu} onClick={() => setIsOpen(!isOpen)}>
         <Hamburger toggled={isOpen} toggle={setIsOpen} />
       </div>
-      <ul className={isOpen ? classes.navLinksHidden : classes.navLinks}>
-        <Link className={classes.linea} href="/about">
+      <ul className={isOpen ? classes.linksOcultos : classes.links}>
+        <Link className={classes.link} href="/about">
           Acerca de
         </Link>
-        <Link className={classes.linea} href="/contact">
+        <Link className={classes.link} href="/contact">
           Contacto
+        </Link>
+        <Link className={classes.link} href="/publish">
+          Publica
         </Link>
       </ul>
     </div>

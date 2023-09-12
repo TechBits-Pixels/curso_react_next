@@ -60,7 +60,11 @@ export async function getStaticProps(params) {
 
 /**
  * Que hace getStaticPaths?
- * 
+ * getStaticPaths nos permite generar las rutas de las páginas
+ * estáticas en tiempo de construcción, es decir, cuando se
+ * ejecuta el comando npm run build, esto es útil para páginas
+ * estáticas que no cambian mucho, ya que se genera una página
+ * estática por cada ruta que se pase en el array paths.
 */
 export async function getStaticPaths() {
   const posts = getAllPosts(['slug'])

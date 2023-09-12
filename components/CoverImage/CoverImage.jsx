@@ -4,24 +4,24 @@ import classes from './CoverImage.module.css'
 
 export const CoverImage = ({ src, titulo, slug }) => {
 
-  const image = (
+  const imagen = (
     <Image 
       src={src} 
       alt={`Imagen de portada para ${titulo}`} 
       width={1300}
       height={630}
-      className={classes.coverImage}
+      className={classes.imagen}
     />
   )
 
   return (
-    <div className='sm:mx-0'>
+    <div className={classes.imagen}>
       {slug ? (
         <Link as={`/posts/${slug}`} href="/posts/[slug]" aria-label={titulo}>
-          { image }
+          { imagen }
         </Link>
       ) : (
-        image
+        imagen
       )}
     </div>
   )

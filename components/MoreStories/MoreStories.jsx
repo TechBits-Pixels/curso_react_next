@@ -4,7 +4,7 @@ import classes from "./MoreStories.module.css"
 export default function MoreStories({ posts }) {
   return (
     <section>
-      <h2 className={classes.title}>Más Historias</h2>
+      <h2 className={classes.titulo}>Más Historias</h2>
       <div className={classes.grid}>
         {posts.map((post) => (
           <PostPreview
