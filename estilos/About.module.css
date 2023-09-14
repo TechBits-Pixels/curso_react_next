@@ -1,0 +1,26 @@
+.acercaDe {
+  color: #F5F5F7;
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  
+  min-height: 100vh;
+  max-width: 900px;
+
+  padding: 2rem;
+  margin-bottom: 6rem;
+}
+
+.titulo {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.parrafo {
+  font-family: 'Open Sans', sans-serif, Arial;
+  font-size: 1.4rem;
+  margin: 1.5rem 0rem;
+  text-align: justify;
+}

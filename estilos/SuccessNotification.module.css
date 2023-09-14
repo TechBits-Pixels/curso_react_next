@@ -1,0 +1,13 @@
+.container {
+  margin: 0 auto !important;
+  left: 0;
+  right: 0;
+  
+  position: fixed;
+  width: 90%;
+
+  top: 2.5rem;
+
+  background-color: #92cc41;
+  z-index: 1000;
+}

@@ -1,0 +1,37 @@
+.imagen {
+  margin-bottom: 2rem;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.titulo {
+  font-size: 1.8rem;
+}
+
+.fecha {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #999;
+  font-family: 'Open Sans', sans-serif, Arial;
+}
+
+.intro {
+  font-size: 1.1rem;
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif, Arial;
+}
+
+.autor {
+  display: flex;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  font-family: 'Open Sans', sans-serif, Arial;
+}

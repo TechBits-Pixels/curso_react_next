@@ -1,0 +1,57 @@
+.imagen {
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin-bottom: 5rem;
+}
+
+.titulo {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: #0070f3;
+}
+
+.fecha {
+  font-size: 1.2rem;
+  color: #9b9b9b;
+  font-family: 'Open Sans', sans-serif, Arial;
+}
+
+.autor {
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif, Arial;
+}
+
+.intro {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif, Arial;
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    column-gap: 2rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    display: grid;
+    margin-bottom: 7rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 4rem;
+  }
+}

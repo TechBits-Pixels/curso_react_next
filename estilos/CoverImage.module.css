@@ -1,0 +1,14 @@
+.imagen {
+  width: 100%;
+}
+
+.imagen:hover {
+  opacity: 0.8;
+}
+
+@media (min-width: 640px) { 
+  .imagen {
+    margin-left: 0;
+    margin-right: 0; 
+  }
+ }
